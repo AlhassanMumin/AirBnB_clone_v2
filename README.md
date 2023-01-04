@@ -15,4 +15,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 * Richard Rang'ondi <[Richard Rang'ondi](https://github.com/RJJohnson162)>
-* Alhassan Mumin <[Alhassan Mumin](https://github.com/)>
+* Alhassan Mumin <[Alhassan Mumin](https://github.com/Mumin8)>
